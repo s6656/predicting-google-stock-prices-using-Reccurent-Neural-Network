@@ -7,6 +7,8 @@ Recurrent Neural Network(RNN) are a type of Neural Network where the output from
 
 Architecture
  -->LSTM-->dropout-->LSTM->dropout --> LSTM->dropout -->LSTM ->dropout-->LSTM -->Output Layer--> Classification
+ 
+ 
 Some additional points
 You can go for additional LSTM layers.
 You can add more data to the training set for increasing the accuracy.
