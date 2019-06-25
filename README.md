@@ -9,8 +9,10 @@ Architecture
  -->LSTM-->dropout-->LSTM->dropout --> LSTM->dropout -->LSTM ->dropout-->LSTM -->Output Layer--> Classification
  
  
-Some additional points
+Some additional points:
+
 You can go for additional LSTM layers.
+
 You can add more data to the training set for increasing the accuracy.
 
 dataset is of google stock prices
